@@ -1,5 +1,5 @@
 #from kyzh_env import *
-from kyzh_env0 import *
+from laikago_dof4 import *
 
 from stable_baselines3.common.env_checker import check_env
 
