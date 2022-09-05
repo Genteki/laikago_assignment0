@@ -1,6 +1,6 @@
 # Assignment0
 
-Here is a assignment based on https://github.com/H-Y-H-Y-H/pybullet_robots
+Here is an assignment based on https://github.com/H-Y-H-Y-H/pybullet_robots
 
 ## Environment
 
